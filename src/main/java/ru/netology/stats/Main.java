@@ -1,4 +1,4 @@
-import ru.netology.stats.StatsService;
+package ru.netology.stats;
 
 public class Main {
     public static void main(String[] args) {
@@ -8,13 +8,12 @@ public class Main {
         System.out.println(x);
     }
 
-    public static void mainAverage(String[] args) {
+    public static void mainAverage() {
         StatsService service = new StatsService();
         long[] sales = {8, 15, 13, 15, 17, 20, 19, 20, 7, 14, 14, 18};
         long x = service.averageSumma(sales);
         System.out.println(x);
     }
-
 
 
 }
