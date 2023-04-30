@@ -11,6 +11,8 @@ public class StatsServiceTest {
         long actual = service.generalSumma(sales);
         long expected = 180;
         Assertions.assertEquals(expected,actual);
+        System.out.println("Тут я ничего не изменял, и не буду");
+
 
     }
 
