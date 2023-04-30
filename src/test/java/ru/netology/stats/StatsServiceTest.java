@@ -8,7 +8,11 @@ public class StatsServiceTest {
     public void ShouldGetGeneralSumma() {
         StatsService service = new StatsService();
         long[] sales = {8, 15, 13, 15, 17, 20, 19, 20, 7, 14, 14, 18};
+
         Assertions.assertEquals(180, service.generalSumma(sales));
+
+        System.out.println("Тут я ничего не изменял, и не буду");
+
 
     }
 

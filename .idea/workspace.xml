@@ -60,12 +60,16 @@
       <recent name="" />
     </key>
   </component>
+<<<<<<< HEAD
   <component name="RunAnythingCache">
     <option name="myCommands">
       <command value="mvn test" />
     </option>
   </component>
   <component name="RunManager" selected="JUnit.StatsServiceTest.ShouldGetGeneralSumma (1)">
+=======
+  <component name="RunManager" selected="JUnit.StatsServiceTest.ShouldGetGeneralSumma">
+>>>>>>> new-branch
     <configuration name="StatsServiceTest.ShouldGetAboveAverageSumma" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="sqr" />
       <extension name="coverage">
@@ -161,7 +165,11 @@
     </configuration>
     <recent_temporary>
       <list>
+<<<<<<< HEAD
         <item itemvalue="JUnit.StatsServiceTest.ShouldGetGeneralSumma (1)" />
+=======
+        <item itemvalue="JUnit.StatsServiceTest.ShouldGetGeneralSumma" />
+>>>>>>> new-branch
         <item itemvalue="JUnit.StatsServiceTest.ShouldGetAboveAverageSumma" />
         <item itemvalue="JUnit.StatsServiceTest.ShouldGetMinSumma" />
         <item itemvalue="JUnit.StatsServiceTest.ShouldGetMaxSumma" />
